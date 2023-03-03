@@ -1,2 +1,3 @@
 # hello
-my first repo
+my first repo program
+i love coffee
